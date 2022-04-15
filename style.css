@@ -1,0 +1,42 @@
+.container1{
+    background-color: blue;
+    width: fit-content;
+}
+.container2{
+    background-color: beige;
+    width: fit-content;
+}
+.container3{
+    background-color: green;
+    width: fit-content;
+}
+.container4{
+    background-color: aliceblue;
+    width: fit-content;
+}
+.container5{
+    background-color: grey;
+    width: fit-content;
+}
+.btn{
+    padding: 4px;
+    border-radius: 7px;
+    background-color: palevioletred;
+}
+.img2{
+    width: 140px;
+}
+.foot{
+    background-color: aquamarine;
+    margin: auto;
+    padding: 0 0 20px 10px;
+}
+.img3{
+    width: 140px;
+}
+.img4{
+    width: 140px;
+}
+.img5{
+    width: 140px;
+}
